@@ -1,5 +1,9 @@
 # RepasoNumpy
-
+# Integrantes
+* Jorge Alba
+* Juan Bolaños
+* Bernabé Dávila
+* Byron Huaraca
 # Ejercicio 22
 ![image](https://user-images.githubusercontent.com/66254573/123187981-db87ef80-d460-11eb-86d3-66be675838ee.png)
 # Ejercicio 23
